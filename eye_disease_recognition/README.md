@@ -1,4 +1,7 @@
+项目aistudio链接：https://aistudio.baidu.com/aistudio/projectdetail/2187832?shared=1
+
 # ResNet在眼疾识别的应用
+
 本文参考paddle课程文档，从理论角度阐述ResNet模型及其变体版本，并且在实践层次附上眼疾识别上的应用案例。
 
 **参考文献：**
@@ -135,7 +138,7 @@ ResNet的一个重要设计原则是：当feature map大小降低一半时，fea
 
 ![图5 model_structure](https://ai-studio-static-online.cdn.bcebos.com/ca6933fd3d7b4317b6fc72caa5ca9fd40a5e3679933a4e06804f1503eaca044f)  
 图5 model_structure
- 
+
 仔细观察这张细节图，我们不难发现一些规律和特点：
 
 - 全图大致分为5个模块，其中2-5模块是残差单元构成的模块
