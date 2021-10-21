@@ -3,6 +3,9 @@ import paddle.nn as nn
 import numpy as np
 
 #todo 导入train_loader，valid_loader，valid_pm
+from data_utils.data_loader import data_loader
+from data_utils.valid_loader import valid_data_loader
+from valider.valid_pm import valid_pm
 
 def train_pm(model,
              datadir,
