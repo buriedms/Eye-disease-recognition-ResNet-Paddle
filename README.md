@@ -1,5 +1,5 @@
 # Eye-disease-recognition-ResNet-vd
-paddle框架的大家ResNet网络，较为基础
+paddle框架的大家ResNet网络，较为基础，分为原始版本和B，C，D三个版本
 
 ### 使用的编辑器和框架
 - paddle 2.1.2
